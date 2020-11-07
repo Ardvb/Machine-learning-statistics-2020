@@ -1,1 +1,5 @@
-# Machine-learning-statistics-2020
+# GMIT Machine learning and statistics 2020
+
+### Author: Arnoud van Balkom
+
+## To be finished
