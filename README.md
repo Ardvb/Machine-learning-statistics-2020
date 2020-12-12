@@ -5,15 +5,17 @@
 - Email: G00376518@gmit.ie
 
 ## Getting started
-Follow these steps to download this repository:
+- Download [Anaconde](https://www.anaconda.com/)
 
-Go to my repository on Github: https://github.com/Ardvb/Machine-learning-statistics-2020
-Click the clone or download button.
-Save the repository to your device.
-To run the program open a command interface and navigate to the folder in which the repository was saved, 
+- Follow these steps to download this repository:
+
+1. Go to my repository on Github: https://github.com/Ardvb/Machine-learning-statistics-2020
+2. Click the clone or download button.
+3. Save the repository to your device.
+4. To run the program open a command interface and navigate to the folder in which the repository was saved, 
 typ 'Jupyter Notebook' and click on 'MLAS2020-assessment.ipynb'.
 
-## What are the contents of this repository?
+## Contents of this repository?
 
 - The Iris data set
 - Jupyter notebook with my answers to the following tasks:
