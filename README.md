@@ -4,7 +4,7 @@
 - Lecturer: Dr.Ian Mcloughlin
 - Email: G00376518@gmit.ie
 
-### Getting started
+## Getting started
 Follow these steps to download this repository:
 
 Go to my repository on Github: https://github.com/Ardvb/Machine-learning-statistics-2020
