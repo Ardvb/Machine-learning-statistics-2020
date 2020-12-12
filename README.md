@@ -5,7 +5,7 @@
 - Email: G00376518@gmit.ie
 
 ## Getting started
-- Download [Anaconde](https://www.anaconda.com/)
+- Download [Anaconda](https://www.anaconda.com/)
 
 - Follow these steps to download this repository:
 
