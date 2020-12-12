@@ -15,7 +15,7 @@
 4. To run the program open a command interface and navigate to the folder in which the repository was saved, 
 typ 'Jupyter Notebook' and click on 'MLAS2020-assessment.ipynb'.
 
-## Contents of this repository?
+## Contents of this repository
 
 - The Iris data set
 - Jupyter notebook with my answers to the following tasks:
